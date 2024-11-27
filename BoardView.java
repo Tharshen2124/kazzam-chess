@@ -6,9 +6,6 @@ public class BoardView extends JFrame {
      * sets the Board View's Frame of the Page.
      */
     public BoardView() {
-
-
-
         setLayout(new BorderLayout(0, 0));
         add(getChessPanel(), BorderLayout.CENTER);
         add(getControlPanel(), BorderLayout.SOUTH);
