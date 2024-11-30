@@ -15,7 +15,7 @@ public class BoardView extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
     }
-
+// hi
     /**
      *  returns the panel of the chess board of the Board View Page.
      */
