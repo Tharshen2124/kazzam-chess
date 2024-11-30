@@ -16,6 +16,9 @@ public class BoardView extends JFrame {
         setVisible(true);
     }
 // hi
+lksdflkdsfosadjfilsjfojfiojfojasdoifj sif jds
+sd fsdlfjn saofd aspf
+sdnj fndsjof nao
     /**
      *  returns the panel of the chess board of the Board View Page.
      */
