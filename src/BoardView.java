@@ -1,3 +1,5 @@
+package src;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -13,6 +15,7 @@ public class BoardView extends JFrame {
         setResizable(false);
         pack();
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setLocationRelativeTo(null);
         setVisible(true);
     }
 
