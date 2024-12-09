@@ -99,10 +99,6 @@ public class MainMenu extends JFrame implements MouseListener {
         return panel;
     }
 
-    public static void main(String[] args) {
-        new MainMenu();
-    }
-
     @Override
     public void mouseClicked(MouseEvent e) {
         if (e.getSource() == button[0]) {
