@@ -16,7 +16,7 @@ public class MainMenu extends JFrame implements MouseListener {
 
     boolean isMouseEntered = false;
 
-    ImageIcon backgroundImg = new ImageIcon("res/background.jpg");
+    ImageIcon backgroundImg = new ImageIcon("res/background.png");
     ImageIcon smallIcon = new ImageIcon("res/small_icon.png");
     ImageIcon icon = new ImageIcon("res/icon.png");
 
